@@ -1,0 +1,10 @@
+{
+    "name": "ClusterTindertec0",
+    "type": "mongodb-atlas",
+    "config": {
+        "clusterName": "ClusterTindertec0",
+        "readPreference": "primary",
+        "wireProtocolEnabled": false
+    },
+    "version": 1
+}
